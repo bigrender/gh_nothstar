@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://northstarguide.com/sitemap.xml
+Sitemap: https://gh-nothstar.pages.dev/sitemap.xml
