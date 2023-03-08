@@ -1,3 +1,2 @@
 User-agent: *
 Disallow:
-Sitemap: https://gh-nothstar.pages.dev/sitemap.xml
